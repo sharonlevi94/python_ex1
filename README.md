@@ -1,7 +1,6 @@
 # python_ex1
-# =========================General Data==============================
+# =====General Data====
 # Name: Sharon Levi
-# ID : 311593313
 # Exercise: 1
 # Language: Python
 # Explanation: This program run in a loop and everytime the user
